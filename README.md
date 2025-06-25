@@ -1,3 +1,17 @@
-A CLI based CRUD system that maintains Students academic record of their unique ids,name and marks
-The speciality of this crud system is that it maintains and stores it record over excel sheet and data can be even retrived from that excel sheet
-The important things required in this project is excel plugins in intellij and apache poi 5.0 .jar files which allow our code to intgrate with excel sheets.
+📋 Student Excel CRUD System (Java + Apache POI)
+A simple console-based CRUD application that:
+
+📥 Loads student data from an Excel sheet
+
+📤 Saves data to an Excel sheet
+
+➕ Adds new students with ID, Name, and Marks
+
+✏️ Updates student marks
+
+📄 Displays all student records in a list format
+
+💾 Uses Apache POI to handle Excel (.xlsx) file operations
+
+❌ No database or JDBC required — purely Excel-backed data storage
+
